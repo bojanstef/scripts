@@ -14,3 +14,5 @@ echo "# mas list" >> $FILE
 eval mas list >> $FILE
 echo "" >> $FILE
 
+cat $FILE
+
